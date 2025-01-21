@@ -1,4 +1,4 @@
-## Copy Trading Bot
+## Pumpfun Copy Trading Bot
 
 A Pumpfun Copy Trading Bot on Solana automatically tracks and mimics the trades of a specific trader's wallet. It monitors the trader's transactions (such as buying or selling tokens) and automatically executes the same actions in your wallet in real-time. The bot allows you to follow experienced traders without manually managing trades, copying their buys and sells on the Pumpfun platform as well as other supported exchanges.
 
