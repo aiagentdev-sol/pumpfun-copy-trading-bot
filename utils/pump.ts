@@ -39,7 +39,6 @@ function readBoolean(buf: Buffer, offset: number, length: number): boolean {
     return false;
 }
 
-//////////////////////////////////////////////////
 
 const PUMP_CURVE_TOKEN_DECIMALS = 6;
 
